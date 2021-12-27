@@ -1979,7 +1979,7 @@ input, select, textarea {
 			input[type="button"].primary:active,
 			button.primary:active,
 			.button.primary:active {
-				background-color: #44f2cb;
+				background-color: #ff90ff;
 			}
 
 		@media screen and (max-width: 736px) {
